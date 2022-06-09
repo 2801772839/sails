@@ -6,3 +6,4 @@ npm install sails -g
 sails new test-project
 # 运行项目
 sails lift
+# 测试
